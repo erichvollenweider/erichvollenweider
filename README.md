@@ -9,7 +9,8 @@ Hi! I'm Erich Vollenweider, a passionate Computer Analyst in the making. I'm in 
   <li><strong>Programming:</strong> Java, C, Assembly, Haskell, Ruby</li>
   <li><strong>Web Development:</strong> HTML, CSS</li>
   <li><strong>Databases:</strong> MySQL Workbench, PostgreSQL</li>
-  <li><strong>Data Analysis & Modeling:</strong> R, MATLAB<br><strong>CAD Design:</strong> AutoCAD, SolidWorks</li>
+  <li><strong>Data Analysis & Modeling:</strong> R, MATLAB</li>
+  <li><strong>CAD Design:</strong> AutoCAD, SolidWorks</li>
   <li><strong>UML Diagrams:</strong> Classes, Objects, Activities, States, Use Cases, Sequences</li>
 </ul>
 <br><br>
