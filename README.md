@@ -4,7 +4,6 @@
 Hi! I'm Erich Vollenweider, a passionate Computer Analyst in the making. I'm in the final year of my degree, excited about technology, programming, and software development. I also have a background in social sciences and humanities, which helps me bring a unique perspective to problem-solving and teamwork.
 <br><br>
 🎯 <strong>What I Do</strong>
-<br>
 <ul>
   <li><strong>Programming:</strong> Java, C, Assembly, Haskell, Ruby</li>
   <li><strong>Web Development:</strong> HTML, CSS</li>
@@ -15,14 +14,12 @@ Hi! I'm Erich Vollenweider, a passionate Computer Analyst in the making. I'm in 
 </ul>
 <br><br>
 🌐 <strong>Languages</strong>
-<br>
 <lu>
   <li>Spanish: Native</li>
   <li>English: Upper-Intermediate (Adults IV Certificate)</li>
 </lu>
 <br><br>
 💡 <strong>What I Enjoy</strong>
-<br>
 <lu>
   <li>Tackling complex coding challenges</li>
   <li>Exploring new technologies</li>
