@@ -1,6 +1,34 @@
 # 💫 About Me:
-👋 <strong>About Me</strong><br>Hi! I'm Erich Vollenweider, a passionate Computer Analyst in the making. I'm in the final year of my degree, excited about technology, programming, and software development. I also have a background in social sciences and humanities, which helps me bring a unique perspective to problem-solving and teamwork.<br><br>🎯 <strong>What I Do</strong><br><strong>Programming:</strong> Java, C, Assembly, Haskell, Ruby<br><strong>Web Development:</strong> HTML, CSS<br><strong>Databases:</strong> MySQL Workbench, PostgreSQL<br><strong>Data Analysis & Modeling:</strong> R, MATLAB<br><strong>CAD Design:</strong> AutoCAD, SolidWorks<br><strong>UML Diagrams:</strong> Classes, Objects, Activities, States, Use Cases, Sequences<br><br>🌐 <strong>Languages<br>Spanish:</strong> Native<br>English: Upper-Intermediate (Adults IV Certificate)<br><br>💡 <strong>What I Enjoy</strong><br>Tackling complex coding challenges<br>Exploring new technologies<br>Designing UML models to structure software solutions<br>Developing web applications and working with databases<br>Feel free to explore my repositories, contribute, or reach out for collaborations! 🚀
-
+👋 <strong>About Me</strong>
+<br>
+Hi! I'm Erich Vollenweider, a passionate Computer Analyst in the making. I'm in the final year of my degree, excited about technology, programming, and software development. I also have a background in social sciences and humanities, which helps me bring a unique perspective to problem-solving and teamwork.
+<br><br>
+🎯 <strong>What I Do</strong>
+<br>
+<ul>
+  <li><strong>Programming:</strong> Java, C, Assembly, Haskell, Ruby</li>
+  <li><strong>Web Development:</strong> HTML, CSS</li>
+  <li><strong>Databases:</strong> MySQL Workbench, PostgreSQL</li>
+  <li><strong>Data Analysis & Modeling:</strong> R, MATLAB<br><strong>CAD Design:</strong> AutoCAD, SolidWorks</li>
+  <li><strong>UML Diagrams:</strong> Classes, Objects, Activities, States, Use Cases, Sequences</li>
+</ul>
+<br><br>
+🌐 <strong>Languages</strong>
+<br>
+<lu>
+  <li>Spanish: Native</li>
+  <li>English: Upper-Intermediate (Adults IV Certificate)</li>
+</lu>
+<br><br>
+💡 <strong>What I Enjoy</strong>
+<br>
+<lu>
+  <li>Tackling complex coding challenges</li>
+  <li>Exploring new technologies</li>
+  <li>Designing UML models to structure software solutions</li>
+  <li>Developing web applications and working with databases</li>
+  <li>Feel free to explore my repositories, contribute, or reach out for collaborations! 🚀</li>
+</lu>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/erich.vollenweider) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erich_vollenweider) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erich-vollenweider) 
