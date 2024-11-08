@@ -5,12 +5,13 @@ Hi! I'm Erich Vollenweider, a passionate Computer Analyst in the making. I'm in 
 <br><br>
 🎯 <strong>What I Do</strong>
 <ul>
-  <li><strong>Programming:</strong> Java, C, Assembly, Haskell, Ruby</li>
-  <li><strong>Web Development:</strong> HTML, CSS</li>
-  <li><strong>Databases:</strong> MySQL Workbench, PostgreSQL</li>
-  <li><strong>Data Analysis & Modeling:</strong> R, MATLAB</li>
-  <li><strong>CAD Design:</strong> AutoCAD, SolidWorks</li>
-  <li><strong>UML Diagrams:</strong> Classes, Objects, Activities, States, Use Cases, Sequences</li>
+  <li><strong>Programming:</strong> Java, C, Assembly, Haskell, Ruby.</li>
+  <li><strong>Web Development:</strong> HTML, CSS.</li>
+  <li><strong>Databases:</strong> MySQL Workbench, PostgreSQL, Microsoft SQL Server.</li>
+  <li><strong>Data Analysis & Modeling:</strong> R, MATLAB.</li>
+  <li><strong>CAD Design:</strong> AutoCAD, SolidWorks.</li>
+  <li><strong>Data Modeling:</strong> Entity-Relationship Diagrams (ERD), UML (Class Diagram, Object Diagram, Activity Diagram, State Diagram, Use Case Diagram, Sequence Diagram), Gantt Charts and PERT.</li>
+  <li><Strong>Tools:</Strong> Canvas, Draw.io, Miro, Figma, Pivotal Tracker.</li>
 </ul>
 <br><br>
 🌐 <strong>Languages</strong>
