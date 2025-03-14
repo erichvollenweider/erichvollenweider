@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 <strong>About Me</strong>
 <br>
-Hi! I'm Erich Vollenweider, a passionate Computer Analyst in the making. I'm in the final year of my degree, excited about technology, programming, and software development. I also have a background in social sciences and humanities, which helps me bring a unique perspective to problem-solving and teamwork.
+Hello! I'm Erich Vollenweider, a passionate computer analyst and a graduate in computer science (in progress). I'm passionate about technology, programming, and software development. I have intermediate English skills and a strong focus on problem-solving and technology.
 <br><br>
 🎯 <strong>What I Do</strong>
 <ul>
